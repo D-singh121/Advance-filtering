@@ -1,0 +1,8 @@
+.main-home-page{
+	display: grid;
+	grid-template-columns: 1fr 4fr;
+	/* justify-content: space-between; */
+	/* align-items: center; */
+	width: full;
+	position: relative;
+}
